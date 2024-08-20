@@ -4,6 +4,7 @@ I built this in order to understand what goes on when a URL call is made in a br
 
 - Understanding what makes up a zone record
 - Parsing Zone records
+- Catching calls over a UDP connection
 - Making a call to a DNS server to perform lookup for a Resource Record (rr), using zig
 
 ## Resouces
