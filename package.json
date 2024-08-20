@@ -1,0 +1,17 @@
+{
+  "name": "dns-server-js",
+  "version": "1.0.0",
+  "description": "dns server with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dns",
+    "server",
+    "dns-server"
+  ],
+  "author": "cr34t1ve",
+  "license": "ISC",
+  "type": "module"
+}
